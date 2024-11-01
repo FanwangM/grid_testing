@@ -18,7 +18,7 @@ on:
 
 env:
   # The name of the package to be published to PyPI and TestPyPI.
-  PYPI_NAME: gridtmp
+  PYPI_NAME: grid-tmp
 
 jobs:
   build:
